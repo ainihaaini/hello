@@ -16,7 +16,10 @@ public class Helloo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world");
-        System.out.println("Tambah baris ke dua");
+        System.out.println("Hello Ainiha");
+        System.out.println("Hello Qurrotul");
+        System.out.println("Hello Aini");
+        System.out.println("Nim 202457201009");
     }
     
 }
